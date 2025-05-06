@@ -1,0 +1,65 @@
+{
+  "id": "wfrp4e-german-wip",
+  "title": "WFRP4e - Deutsch - WIP",
+  "description": "Etwas Übersetzung!! WUFF WUFF",
+  "version": "0.9.0",
+  "authors": [
+    {
+      "name": "Embrandt"
+    }
+  ],
+  "url": "",
+  "readme": "",
+  "manifest": "",
+  "download": "",
+  "esmodules": [
+    "babele-register.js",
+    "modules/effects.js",
+    "modules/config-german.js"
+  ],
+  "languages": [
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/wfrp4e-system.json",
+      "system": "wfrp4e"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/wfrpe-lib.json",
+      "module": "warhammer-lib"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/wfrpe4e-core.json",
+      "module": "wfrp4e-core"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+    "flags" : {
+    "hotReload": { 
+      "extensions": ["json"]
+    }
+  }
+}
