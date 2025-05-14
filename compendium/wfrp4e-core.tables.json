@@ -14,12 +14,6 @@
 		"GM Booklet": "Spielleiter Schirm",
 		"Hit Location": "Tabelle für Trefferzone"
 	},
-	"mapping": {
-		"tables_folders": {
-			"path": "flags.wfrp4e-core.initialization-folder",
-			"converter": "diaries_folder"
-		}
-	},
 	"entries": [
 		{
 			"id": "Career - Dwarf",

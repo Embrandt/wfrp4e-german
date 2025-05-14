@@ -1,17 +1,17 @@
 {
-  "id": "wfrp4e-german-wip",
+  "id": "wfrp4e-german",
   "title": "WFRP4e - Deutsch - WIP",
-  "description": "Etwas Übersetzung!! WUFF WUFF",
+  "description": "Deutsche Übersetzung für das Warhammer Fantasy Rollenspiel 4. Edition",
   "version": "0.9.0",
   "authors": [
     {
       "name": "Embrandt"
     }
   ],
-  "url": "",
-  "readme": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/Embrandt/wfrp4e-german",
+  "readme": "https://github.com/Embrandt/wfrp4e-german#README",
+  "manifest": "https://github.com/Embrandt/wfrp4e-german/releases/latest/download/module.json",
+  "download": "https://github.com/Embrandt/wfrp4e-german/releases/download/0.9.0/wfrp4e-german.zip",
   "esmodules": [
     "babele-register.js",
     "modules/effects.js",
